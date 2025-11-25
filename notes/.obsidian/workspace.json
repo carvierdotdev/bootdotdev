@@ -1,0 +1,298 @@
+{
+  "main": {
+    "id": "b621cc2be15184f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf2cbd00c1a6f3b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a6f553c214d4722",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6981c0bdbf6d14dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "52707f4ea0693ac0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23a906f12e815543",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3ea7e2eb3ebcdabe",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e995d9da2131d03",
+        "type": "tabs",
+        "dimension": 55.43893129770993,
+        "children": [
+          {
+            "id": "d7c66b4aa00662d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6ebd5b069075735c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "38bb08f4758fcb77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "8514d1e8a58c0f03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "{2} Digital Creation/AI - ML/Basics Notes/Sampler/Sampler (Deep Dive).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sampler (Deep Dive)"
+            }
+          },
+          {
+            "id": "c856145ccb10de81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "{2} Digital Creation/AI - ML/Basics Notes/ControlNet/ControlNet for SD 1.5.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ControlNet for SD 1.5"
+            }
+          },
+          {
+            "id": "0df7bfbfdc23db7b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c01e800eeacbe928",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b3d7a0fcf4c70756",
+        "type": "tabs",
+        "dimension": 44.56106870229007,
+        "children": [
+          {
+            "id": "c98ed712a683e371",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "{2} Digital Creation/AI - ML/Basics Notes/Sampler/Sampler (Deep Dive).md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 0.929427083333333,
+                  "lineSizeMultiplier": 1.64401041666667,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2992250040964635,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Sampler (Deep Dive)"
+            }
+          },
+          {
+            "id": "081d3e427e198b0d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 569.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "workspaces:Manage workspace layouts": false,
+      "command-palette:Open command palette": true
+    }
+  },
+  "active": "2a6f553c214d4722",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "create a link.md",
+    "{2} Digital Creation/Boot.dev/Python/Python 101.md",
+    "{0} Projects/Baumax Labs, LLC (baumax.dev)/Dev/Odoo.com ERP and CRM/Resources for Odoo.md",
+    "{2} Digital Creation/Boot.dev/Go",
+    "{2} Digital Creation/Boot.dev/JavaScript",
+    "{2} Digital Creation/Boot.dev/Python",
+    "{2} Digital Creation/AI - ML/Basics Notes/Workflows/{0} Workflows.md",
+    "{2} Digital Creation/Boot.dev",
+    "{2} Digital Creation/Untitled.md",
+    "{2} Digital Creation/Shopify/Metaobjects & Metafields.md",
+    "{2} Digital Creation/Shopify/Google Merchant Center Next/Google Community.md",
+    "{3} Productivity/Daily/2025-11-25.md",
+    "{2} Digital Creation/Shopify/Google Merchant Center Next/Drawing 2025-11-24 15.25.44.excalidraw.md",
+    "{2} Digital Creation/Shopify/Google Merchant Center Next",
+    "{3} Productivity/Daily/2025-11-24.md",
+    "Clippings/Podcasting/How to start a podcast in 11 steps and make money from it.md",
+    "Personal/Miscellaneous/Social Accounts/Discord/Discord Account KPXC.md",
+    "{3} Productivity/Daily/2025-11-23.md",
+    "Packages HOLD.md",
+    "{2} Digital Creation/Operating Systems/Nvidia on Linux/NVIDIA Container Toolkit - Steps to Install on Ubuntu 24.04 LTS.md",
+    "{2} Digital Creation/Operating Systems/Nvidia on Linux/Attachments/Docker run good and GTX 1080 Ti listed inside the container.png",
+    "{2} Digital Creation/Operating Systems/Nvidia on Linux/Attachments/systemctl 4.1 working properly.png",
+    "{2} Digital Creation/Operating Systems/Nvidia on Linux/Attachments",
+    "{2} Digital Creation/AI - ML/Basics Notes/Sampler/Sampler (Deep Dive).md",
+    "{2} Digital Creation/SEO Knowledge/Ahrefs Video Courses/{1} SEO 101/02 Keyword Research.md",
+    "{2} Digital Creation/SEO Knowledge/Ahrefs Video Courses/{1} SEO 101/01 Introduction.md",
+    "{2} Digital Creation/Git - Version Control/Commits/Commit Message Strategy - Summary.md",
+    "{3} Productivity/Daily/2025-11-22.md",
+    "{2} Digital Creation/Operating Systems/Linux with Gnome/Aliases & Completions for FNM, GitHub CLI (gh) & PNPM Plus Configuration.md",
+    "{3} Productivity/Daily/2025-11-21.md",
+    "web tools",
+    "{2} Digital Creation/Stack Pull Request Workflow/Spr Tool.excalidraw.md",
+    "{2} Digital Creation/Git - Version Control/Git Basics/Git Config.md",
+    "{2} Digital Creation/Git - Version Control/Git Basics/Attachments/git config --global --edit.png",
+    "{2} Digital Creation/Git - Version Control/Git Basics/Attachments",
+    "{2} Digital Creation/Stack Pull Request Workflow/Spr Tool.excalidraw.excalidraw",
+    "{2} Digital Creation/Stack Pull Request Workflow/Spr Tool.excalidraw",
+    "{2} Digital Creation/Stack Pull Request Workflow/GitHub Branch Protection Rules Recommendations for Git SPR Tool.md",
+    "{2} Digital Creation/Stack Pull Request Workflow/Raw/what-is-a-stack.png",
+    "Clippings/Entrepreneurship/Attachments/The 1 Minute Manager.png",
+    "Clippings/Entrepreneurship/Attachments/The Motive - Why So Many Leaders Abdicate Their Most Important Responsibilities.png",
+    "{0} Projects/New Era/Podcast/fundamentos/fundamentos.link.png",
+    "{0} Projects/New Era/Podcast/fundamentos/fundamentos.info.png",
+    "{0} Projects/New Era/Podcast/mapeando/mapeando.site.png",
+    "{0} Projects/New Era/Podcast/mapeando/mapeando.online.png",
+    "{0} Projects/New Era/Carvier Dotdev, LLC/Carvier.dev/Roadmap for 300K/Roadmap.canvas",
+    "Personal/Carro en CUBA/Untitled.canvas",
+    "{0} Projects/Sora Vita Shop/Untitled.canvas",
+    "Personal/Miscellaneous/Social Accounts/Meta Family/Ismael - Sora Vita Shop/Untitled.canvas",
+    "Personal/Miscellaneous/Social Accounts/Meta Family/Ismael - Sora Vita Shop/Untitled 1.canvas",
+    "{0} Projects/Carvier.dev/Roadmap for 300K/Roadmap.canvas",
+    "{4} Projects/Baumax.dev/Roadmap for 300K/Roadmap.canvas",
+    "{2} Digital Creation/CS50/Weeks Related.canvas",
+    "Software Creation/CS50/Weeks Related.canvas",
+    "Untitled/Untitled.canvas"
+  ]
+}
