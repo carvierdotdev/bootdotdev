@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "monospaceFontFamily": "Cascadia Mono",
+  "textFontFamily": "Cascadia Code",
+  "nativeMenus": true,
+  "translucency": false,
+  "cssTheme": "Dracula",
+  "baseFontSize": 26,
+  "interfaceFontFamily": "Nakula,Inter",
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "showRibbon": false
+}

@@ -1,0 +1,16 @@
+{
+  "newFileLocation": "current",
+  "showLineNumber": true,
+  "spellcheckLanguages": null,
+  "tabSize": 3,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./Attachments",
+  "strictLineBreaks": true,
+  "readableLineLength": false,
+  "promptDelete": false,
+  "focusNewTab": true,
+  "propertiesInDocument": "visible",
+  "showInlineTitle": true
+}
