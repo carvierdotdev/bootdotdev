@@ -66,5 +66,28 @@ Since you’re using Obsidian as your “hub”:
     - Summary of what you learned.
     - Links to Obsidian notes.
     - Commands/env setup (so future you can rerun easily).
+    
+---
+
+## 📦 Recommended Plugins for a Learning Sandbox
+
+Here’s a curated set that fits your workflow (Python/TS learning + reproducibility + notes):
+
+- **Core productivity**
+    - **Dataview** → query notes like a database (track course progress, completed lessons).
+    - **Templater** → reusable note templates (lesson notes, commit logs).
+    - **Periodic Notes** → daily/weekly logs of what you learned.
+- **Code & Dev**
+    - **Obsidian Git** → auto-commit/push your notes vault.
+    - **Advanced Tables** → cleaner tables for curriculum tracking.
+    - **CodeMirror Options** → better syntax highlighting for Python/TS snippets.
+- **Organization**
+    - **Kanban** → visualize tasks per course/project.
+    - **Projects** → manage Boot.dev modules as tasks.
+    - **Calendar** → track study sessions.
+- **Quality of life**
+    - **Quick Switcher++** → faster navigation.
+    - **Commander** → custom commands tied to hotkeys.
+    - **Tag Wrangler** → manage tags across notes.
 
 ---
